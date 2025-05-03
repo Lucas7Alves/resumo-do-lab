@@ -22,3 +22,13 @@ OpEx (Despesas Operacionais): Pagamento conforme o uso, ideal para escalar servi
 
 📊 Modelo Baseado em Consumo
 Os provedores de nuvem adotam um modelo de cobrança sob demanda. O usuário paga apenas pelo que consome, o que melhora a previsibilidade de custos e otimiza recursos.
+
+🛅 Modelos de Serviço em Nuvem
+IaaS (Infrastructure as a Service)
+Oferece infraestrutura básica (servidores, armazenamento, rede) como serviço virtualizado. O provedor gerencia hardware, rede e virtualização, enquanto o cliente é responsável por SO, middleware, aplicativos e dados. Exemplos: Azure Virtual Machines, AWS EC2.
+
+PaaS (Platform as a Service)
+Fornece um ambiente pronto para desenvolvimento e implantação de aplicativos, sem gerenciar infraestrutura subjacente. O provedor cuida da infraestrutura, SO e middleware, e o cliente foca no desenvolvimento e gerenciamento de aplicativos. Exemplos: Azure App Services, Google App Engine.
+
+SaaS (Software as a Service)
+Aplicativos completos hospedados e gerenciados pelo provedor, acessados via navegador. O provedor gerencia tudo (infraestrutura, atualizações, segurança), e o cliente apenas usa o software. Exemplos: Microsoft 365, Salesforce, Gmail.
